@@ -43,6 +43,10 @@ This view reflects the state of the report connected to the initial testing data
 
 This view demonstrates the same report visuals and DAX logic but connected to the live **Production Data** after the database migration to **MySQL** was successfully completed.
 
+<img width="1285" height="719" alt="Screenshot 2025-12-05 220213" src="https://github.com/user-attachments/assets/b0a4858e-6f40-47ce-8283-53f714eddaff" />
+<img width="1285" height="719" alt="Screenshot 2025-12-05 220226" src="https://github.com/user-attachments/assets/09c911ee-dcb0-41f9-a2bc-623d94690b3f" />
+<img width="1285" height="719" alt="Screenshot 2025-12-05 220237" src="https://github.com/user-attachments/assets/00299626-aa70-4ac7-ad2e-681a985f9a89" />
+
 
 
 **Key Insight:** *The updated, larger values confirm the data sources were successfully swapped and the migration was seamless, validating the stability of the Power Query setup.*
