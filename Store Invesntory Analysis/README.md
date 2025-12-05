@@ -1,4 +1,4 @@
-# 📦 Inventory Data Analysis & Database Migration Project
+#  Inventory Data Analysis & Database Migration Project
 
 This project demonstrates an end-to-end Business Intelligence solution for **Inventory Data Analysis** built in Power BI, showcasing advanced data modeling, DAX proficiency, and critical data engineering adaptability during a database migration.
 
@@ -32,9 +32,7 @@ The following metrics were calculated using DAX to provide actionable insights:
 
 This view reflects the state of the report connected to the initial testing database (MS SQL), using simulated or scaled-down data to validate the model and DAX logic.
 
-| **KPI Snapshot (Test Data)** | **Financial Snapshot (Test Data)** | 
- | ----- | ----- | 
-| ![Inventory KPIs using Test Data](./images/test_kpis.png) | ![Financial KPIs using Test Data](./images/test_financials.png) | 
+
 
 **Key Insight:** *Notice the distinct values that confirm the test environment is running successfully and the DAX measures are calculating correctly before going live.*
 
@@ -42,17 +40,10 @@ This view reflects the state of the report connected to the initial testing data
 
 This view demonstrates the same report visuals and DAX logic but connected to the live **Production Data** after the database migration to **MySQL** was successfully completed.
 
-| **KPI Snapshot (Live Data)** | **Financial Snapshot (Live Data)** | 
- | ----- | ----- | 
-| ![Inventory KPIs using Live Data](./images/prod_kpis.png) | ![Financial KPIs using Live Data](./images/prod_financials.png) | 
+
 
 **Key Insight:** *The updated, larger values confirm the data sources were successfully swapped and the migration was seamless, validating the stability of the Power Query setup.*
 
-### Trend Analysis (Applicable to Both Phases)
-
-This chart shows the historical trend of demand versus availability over time, which is critical for forecasting and identifying operational bottlenecks.
-
-![Demand and Availability Trend](./images/trend_analysis.png)
 
 ## 🛠️ Technical Details & Setup
 
@@ -70,6 +61,6 @@ This chart shows the historical trend of demand versus availability over time, w
 
 1. **Required:** Power BI Desktop (Latest Version)
 
-2. **Files:** The primary Power BI file is located at `[FILEPATH_TO_PBIX_OR_PBIP_FILE]`. *(Replace with the path to your main Power BI file)*
+2. **Files:** The primary Power BI file is located in the same folder.
 
-3. **Data Source Link:** The external raw data source is available at: `[LINK_TO_YOUR_DATA_SOURCE_OR_NOTE]` *(Replace with a link or note about the data location)*
+3. **Data Source Link:** The external raw data source is available in same folder.
