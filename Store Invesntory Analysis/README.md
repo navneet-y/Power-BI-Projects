@@ -32,6 +32,9 @@ The following metrics were calculated using DAX to provide actionable insights:
 
 This view reflects the state of the report connected to the initial testing database (MS SQL), using simulated or scaled-down data to validate the model and DAX logic.
 
+<img width="1285" height="717" alt="Screenshot 2025-12-05 214851" src="https://github.com/user-attachments/assets/52d0103f-f5c9-48d0-a6e9-a02213aba5d6" />
+<img width="1285" height="719" alt="Screenshot 2025-12-05 214901" src="https://github.com/user-attachments/assets/fe1fcc51-ddb7-437d-9f65-2863b976e8f9" />
+<img width="1285" height="719" alt="Screenshot 2025-12-05 214916" src="https://github.com/user-attachments/assets/431551fe-a06b-4570-8300-1cff8be49164" />
 
 
 **Key Insight:** *Notice the distinct values that confirm the test environment is running successfully and the DAX measures are calculating correctly before going live.*
