@@ -1,4 +1,4 @@
-<img width="1414" height="791" alt="Screenshot 2025-12-06 173835" src="https://github.com/user-attachments/assets/a872eb51-fccc-4c04-adba-3de6addf0b05" />#  Loan Default Risk Analysis Dashboard (Power BI)
+#  Loan Default Risk Analysis Dashboard (Power BI)
 
 This project provides a comprehensive analysis of a loan portfolio to identify key risk factors contributing to loan defaults. It utilizes a robust Power BI architecture, including Dataflows for shared data preparation and advanced DAX measures for calculating key financial and risk metrics.
 
@@ -41,6 +41,7 @@ The Power BI report is structured into four main pages to guide the user from hi
 ### 1. Executive Summary & Key Risk Factors
 
 <img width="1412" height="794" alt="Screenshot 2025-12-06 173707" src="https://github.com/user-attachments/assets/fa617064-6567-47a2-89c6-aaafbb43ad6c" />
+
 * **KPIs:** Provides the immediate health check: **Total Loan Amount**, **Default Rate**, **Average CreditScore**, and **Average Loan Term**.
 * **Trend Analysis:** The **Default Rate by Year** line chart shows the overall historical risk trend.
 
