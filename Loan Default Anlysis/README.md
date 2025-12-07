@@ -4,7 +4,7 @@ This project provides a comprehensive analysis of a loan portfolio to identify k
 
 The primary goal is to empower the lending team with actionable insights to inform underwriting decisions, portfolio management, and strategy development.
 
-## 🎯 Project Goal and Methodology
+##  Project Goal and Methodology
 
 ### Goal
 
@@ -19,7 +19,7 @@ The primary goal is to empower the lending team with actionable insights to info
 3.  **Advanced Calculations (DAX):** Measures like **Default Rate**, **Year-over-Year (YoY) Change**, and conditional aggregations are calculated using DAX formulas.
 4.  **Visualization:** Data is presented across four specialized dashboard pages to serve different analytical needs.
 
-## 📚 Data Dictionary
+##  Data Dictionary
 
 The analysis is based on the following key variables from the Loan Default Dataset:
 
@@ -34,7 +34,7 @@ The analysis is based on the following key variables from the Loan Default Datas
 | **Default** | Indicator (Yes/No) if the loan defaulted. | Primary metric for calculating **Default Rate**. |
 | **Loan Date** | Date the loan was issued. | Used for **Year-over-Year (YoY)** trend analysis. |
 
-## 📊 Dashboard Pages and Insights
+##  Dashboard Pages and Insights
 
 The Power BI report is structured into four main pages to guide the user from high-level portfolio health to detailed risk factors.
 
@@ -65,7 +65,7 @@ The Power BI report is structured into four main pages to guide the user from hi
 
 * **Year-over-Year (YoY) Tracking:** This chart compares the annual percentage change of a key metric (e.g., Loan Volume) with the annual percentage change in default loans. This helps identify if periods of high growth correspond with changes in default risk.
 
-## 💻 Installation and Usage
+##  Installation and Usage
 
 1.  **Power BI Access:** Ensure you have access to the Power BI Service where the Dataflow is published.
 2.  **Clone Repository:** Download or clone this repository to your local machine.
